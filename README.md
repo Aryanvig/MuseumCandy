@@ -9,6 +9,60 @@
     <link rel="stylesheet" href="museumcandy.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+    body{
+    background-color: rgb(240, 156, 203);
+}
+#main .navbar-brand{
+    font-size: 1.5em;
+    color:  rgb(235, 47, 72);
+     font-family: 'Raleway', sans-serif;
+     font-weight: 130;
+}
+#navlinks .nav-link{
+    font-size: 1.5em;
+    color: white;
+     font-family: 'Raleway', sans-serif;
+     font-weight: 130;
+
+}
+#navlinks .nav-link:hover{
+    color:  rgb(235, 47, 72);
+
+}
+.text-white{
+    font-family: 'Raleway', sans-serif;
+
+}
+#heading span{
+    color: rgb(235, 47, 72);
+    
+}
+#heading h1{
+    font-size: 4em;
+    font-weight: 100;
+    
+}
+@media (min-width: 700px) {
+    #heading h1{
+        font-size: 4em;
+        font-weight: 100;
+    }
+
+
+}
+#candy h2{
+    color: rgb(235, 47, 72);
+    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
+}
+.head{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+}
+.content{
+    margin-top: 100px;
+}
 
 </head>
 <body>
